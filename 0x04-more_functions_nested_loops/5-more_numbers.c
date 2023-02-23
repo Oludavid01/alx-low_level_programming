@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _more_numbers - Prints 10 times the nmber since 0 up to 14
+ * more_numbers - Prints 10 times the nmber since 0 up to 14
  * Return: 10 times the number since 0 up to 14
  */
-void _more_numbers(void)
+void more_numbers(void)
 {
 	int x, y;
 
